@@ -49,5 +49,3 @@ plt.ylabel('Frequency(f)')
 
 # Providing a title to the graph
 plt.title("Zipf's law")
-
-plt.show()
